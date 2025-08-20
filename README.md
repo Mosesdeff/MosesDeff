@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]Moses David 👋
+# Hi there, I'm Moses David 👋
 
 I'm a Junior Flutter Developer passionate about building beautiful and performant mobile apps for iOS and Android.
 
